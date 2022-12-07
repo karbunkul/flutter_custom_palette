@@ -1,6 +1,6 @@
 name: custom_palette
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.9.0
 homepage:
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  material_color_generator: ^1.1.0
 
 dev_dependencies:
   flutter_test:
