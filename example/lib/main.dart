@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
           ),
           darkTheme: ThemeData(
             appBarTheme: AppBarTheme(
-              foregroundColor: palette?.appBar.value,
+              foregroundColor: palette?.appBar.material,
               elevation: 0,
             ),
             brightness: Brightness.dark,
